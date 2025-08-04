@@ -1,0 +1,4 @@
+comandos para executar o manim:
+1º python3 -m venv venv
+2°  source venv/bin/activate
+3º manim first_manim_animations.py class_name -p -ql
