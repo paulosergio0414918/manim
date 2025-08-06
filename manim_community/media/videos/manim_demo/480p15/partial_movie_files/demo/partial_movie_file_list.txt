@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/1185818338_565558106_223132457.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/624642324_4217992463_3792218003.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/624642324_4217992463_1930789122.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/624642324_2141382846_4173340071.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/624642324_4217992463_3438313360.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/624642324_933336247_472369965.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo/480p15/partial_movie_files/demo/624642324_2844360058_2705059528.mp4'

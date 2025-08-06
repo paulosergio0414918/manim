@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/1185818338_3239622528_223132457.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_2855992616_2482302213.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_1201259260_4026841291.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_3702917473_2626793025.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_2508292975_344474018.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_1409295849_3189593846.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_2781541224_3542394267.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_2421171833_1542239598.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_1831639354_1570807726.mp4'
+file 'file:/home/paulo/Área de trabalho/manim_animations/manim_community/media/videos/manim_demo_2/480p15/partial_movie_files/demo/624642324_2844360058_3570811168.mp4'
